@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(250, 236, 236);
+}
+p
+{
+    font-family: 'Lemonada', cursive;
+    text-align: center;
+    font-size: small;
+    color:saddlebrown;
+}
+h1
+{
+    font-family: 'Allura', cursive;
+    font-size: 70px;
+    color:rosybrown;
+}
+marquee 
+{
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+    color: rosybrown;
+}
+tr
+{
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: small;
+    color:saddlebrown;
+}
+li
+{
+    font-family: 'Patua One', cursive;
+    text-align: center;
+    font-size: medium;
+    color:saddlebrown;
+}
